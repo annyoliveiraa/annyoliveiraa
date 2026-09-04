@@ -17,7 +17,13 @@
 ---
 
 <div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"
+width="280"
+alt="Animação decorativa"
+  />
+</div>
+
 </div>
 
 <div align="center" width="100%">
@@ -43,21 +49,25 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelans&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=nord)](https://git.io/streak-stats) |
 | :-: | :-: |
   
-</div>
+<div align="center" style="display: inline-block;">
+  <br>
 
-<div align="center" style="display: inline_block" color: color= 0:CD05FF ><br>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GameMakerStudio.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Csharpe.svg" alt="C#" title="C#" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" title="HTML" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" title="CSS" />
+
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" title="React" />
+
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" title="Figma" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" alt="SQLite" title="SQLite" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" title="Visual Studio Code" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" alt="Visual Studio 2022" title="Visual Studio 2022" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub" /
+
 </div>
 
 <br>
@@ -65,6 +75,28 @@
 ##
 
 <br>
+
+## 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/sophiahonopato">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sophia-honorato-ribeiro-0114b936a">
+<img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.lovable.dev/in/lauanny-crafted-portifolio.lovable.app">
+<img src="https://img.shields.io/badge/Portifólio-6F00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+ <a href="https://www.whatsapp.com/in/24981292589">
+<img src="https://img.shields.io/badge/GMAIL-FF0800?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+
+<a href="https://www.instagram.com/in/24981292589">
+<img src="https://img.shields.io/badge/INSTAGRAM-DF00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>   
+</div>
 
 <div align="center">
 
@@ -74,21 +106,7 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafaela-nascimento-sant-ana-0595251a2/)
   [![TikTok](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://lauanny-crafted-portifolio.lovable.app)
   
-  
-</div>
 
-<div align="center">
-
-<p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
-
-</div>
 
 ##
 
@@ -99,14 +117,7 @@
 
 ---
 
-## 🚀 Tecnologias e ferramentas
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,java,react,mysql,sqlite,git,github,vscode&theme=dark"
-    alt="HTML, CSS, JavaScript, Java, React, MySQL, SQLite, Git, GitHub DO_PROJETO_FRONTimg
-      src="https://img.shields.io/badge/FRONT--END-HTML%20%7C%20CSS%20%7C%20JS-E34F26?style=for-the-badge&logo=html5
-  </a>
+## 🚀 Tecnologias e ferramenta
 
  ---
 
