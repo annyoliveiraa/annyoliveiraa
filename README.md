@@ -106,8 +106,6 @@ alt="Animação decorativa"
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafaela-nascimento-sant-ana-0595251a2/)
   [![TikTok](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://lauanny-crafted-portifolio.lovable.app)
   
-
-
 ##
 
 </details>
